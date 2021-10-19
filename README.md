@@ -7,7 +7,7 @@ Problem resolved using [Node.js](https://nodejs.org/en/) and [Java Script](https
 - [Problem](#-problem)
 - [Solution overview](#-solution-overview)
 - [Arquitecture](#-arquitecture)
-- [Approach](#%EF%B8%8F-setup)
+- [Approach](#-approach)
 - [Setup](#-features)
 
 ## ❓ Problem
