@@ -5,7 +5,7 @@ Problem resolved using [Node.js](https://nodejs.org/en/) and [Java Script](https
 ## :page_facing_up: Table of contents
 
 - [Problem](#-problem)
-- [Solution overview](#-screenshots)
+- [Solution overview](#-solution-overview)
 - [Arquitecture](#-technologies)
 - [Approach](#%EF%B8%8F-setup)
 - [Setup](#-features)
