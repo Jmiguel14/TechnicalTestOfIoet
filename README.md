@@ -8,7 +8,7 @@ Problem resolved using [Node.js](https://nodejs.org/en/) and [Java Script](https
 - [Solution overview](#-solution-overview)
 - [Arquitecture](#-arquitecture)
 - [Approach](#-approach)
-- [Setup](#-features)
+- [Setup](#%EF%B8%8F-setup)
 
 ## ❓ Problem
 The company ACME offers their employees the flexibility to work the hours they want. But due to some external circumstances they need to know what employees have been at the office within the same time frame
