@@ -40,6 +40,6 @@ The approach is to convert the flat text into an array since an array can be eas
 
 ## ⚙️ Setup
  ### requirements - Nodejs installed
- - Once installed Nodejs in the computer you must the steps as follow:
+ - Once installed Nodejs on the computer you must follow the steps below:
  - Open the project in your favorite editor
- - run `node index.js`
+ - run `node index.js` from the terminal
