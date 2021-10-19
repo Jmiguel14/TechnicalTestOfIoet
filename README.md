@@ -28,4 +28,18 @@ ASTRID-RENE: 2
 ASTRID-ANDRES: 3
 RENE-ANDRES: 2
 ```
+
+## 💡 Solution overview
+The solution is basically `to convert` the flat text from the `txt file` into an `array` and then `to reduce` this array to an `object` in order to store the employees who are within the same time frame.
+
+## 🛠 Arquitecture
 ![arquitecture](./Arquitecture.png)
+
+## 👏 Approach
+The approach is to convert the flat text into an array since an array can be easier to manage, and it makes the use of high order functions like reduce or map posible.
+
+## ⚙️ Setup
+ # requirements - Nodejs installed
+ - Once installed Nodejs in the computer you must the step as follow:
+ - Open the project in your favorite editor
+ - run `node index.js`
