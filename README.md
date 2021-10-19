@@ -16,7 +16,7 @@ The company ACME offers their employees the flexibility to work the hours they w
 The goal of this exercise is to output a table containing pairs of employees and how often they have coincided in the office.
 
 Input: the name of an employee and the schedule they worked, indicating the time and hours. This should be a .txt file with at least five sets of data. You can include the data from our example below:
-`txt
+`
 INPUT
 
 RENE=MO10:00-12:00,TU10:00-12:00,TH01:00-03:00,SA14:00-18:00,SU20:00-21:00 
