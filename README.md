@@ -1,3 +1,3 @@
 # TechnicalTestOfIoet
 
-![arquitecture](./Arquitecture)
+![arquitecture](./Arquitecture.png)
