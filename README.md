@@ -1,6 +1,6 @@
 # :zap: Find employees within the same time frame
 
-Problem resolved using Node.js [Nodejs](https://nodejs.org/en/) and Java Script [JS](https://www.javascript.com/).
+Problem resolved using [Node.js](https://nodejs.org/en/) and [Java Script](https://www.javascript.com/).
 
 ## :page_facing_up: Table of contents
 
